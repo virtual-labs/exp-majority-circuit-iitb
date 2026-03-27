@@ -1,1 +1,1 @@
-## Experiment name
+##  Majority circuit using basic logic gates 
