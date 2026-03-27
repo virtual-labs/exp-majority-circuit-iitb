@@ -1,0 +1,1 @@
+##  Majority circuit using basic logic gates 

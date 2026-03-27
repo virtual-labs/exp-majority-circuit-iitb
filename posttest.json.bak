@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the output status of the majority circuit when the inputs A, B, C, D are 1011?",
+    "qid": 1,
+    "option_a": "Low",
+    "option_b": "High",
+    "option_c": "Tristate",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "If IC 7432 and IC 7408 represent quad dual-input OR and AND circuits respectively, then _______number of IC7432 and ____________ number of IC 7408 respectively would be necessary for implementation?",
+    "qid": 2,
+    "option_a": "3,3",
+    "option_b": "2,2",
+    "option_c": "1,1",
+    "option_d": "4,1",
+    "correct_option": "c"
+  },
+  {
+    "question": "What would be the Boolean expression for output Y in figure below, if all OR gates are replaced by AND, and vice-versa? <br> <img src = 'lab-manual/images/Exp12-1.4.png'>",
+    "qid": 3,
+    "option_a": "AB + CD",
+    "option_b": "AB (C+D)+ CD(A+B)",
+    "option_c": "A+B+C+D",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "If the majority circuit is defined as a logic circuit that generates a HIGH output when the majority of its inputs A, B, C and D are LOW, then which of the following Boolean expression defines this circuit?",
+    "qid": 4,
+    "option_a": "A’B’C’ + A’C’D’ +A’B’D’ +B’C’D’",
+    "option_b": "A’B’C’ + A’C’D’ +A’B’D’ + B’D’",
+    "option_c": "BCD + ABD + ABC + ACD",
+    "option_d": "None of these",
+    "correct_option": "a"
+  },
+  {
+    "question": "The logic circuit that you simulated in figure below is called _____________ circuit. <br> <img src = 'lab-manual/images/Exp12-1.5.png'>",
+    "qid": 5,
+    "option_a": "NAND-NAND",
+    "option_b": "AND – OR",
+    "option_c": "NOR – NOR",
+    "option_d": "None of these",
+    "correct_option": "b"
+  }
+]

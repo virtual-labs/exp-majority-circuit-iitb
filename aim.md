@@ -1,0 +1,2 @@
+To construct a majority circuit application using basic logic gates. The users will be able to obtain simplified expressions from given k-maps and given combinational circuits. 
+The users will be able to state the number of integrated circuits required for constructing a given function.
